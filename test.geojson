@@ -79,7 +79,9 @@
     ,
       {
       "type": "Feature",
-      "properties": {},
+                  "properties": {
+		                  "name": "Turn right in 50 meters into the street Shellmound Street"
+				              },
       "geometry": {
         "type": "Point",
         "coordinates": [
